@@ -1,0 +1,21 @@
+<p><p><p>
+<style>
+  *{
+    background:#62306D;
+  }
+  p{
+    position:absolute;
+    left:50px;
+    top:134px;
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    border-radius: 0 0 50% 50%;
+  }
+  p:first-child{
+    left:150px;
+    top:34px;
+    border-radius:50% 50% 0 0;
+  }
+  p+p+p{
+    left:250px
